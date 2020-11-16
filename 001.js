@@ -1,3 +1,7 @@
+/*
+Given an array of integers, find the sum of its elements.
+*/
+
 function simpleArraySum(ar) {
     /* var sum = ar.reduce((a,b) => a+b);
      return sum;
