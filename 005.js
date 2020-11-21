@@ -16,6 +16,7 @@ function plusMinus(arr) {
             z += 1;
         }
     }
+
     var ratioP = p/arr.length;
     var ratioN = n/arr.length;
     var ratioZ = z/arr.length;

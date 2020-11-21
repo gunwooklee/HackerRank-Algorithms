@@ -12,6 +12,7 @@ function compareTriplets(a, b) {
             bob += 1;
         }
     }
+
     var alibob = [alice, bob];
     return alibob;
 }
